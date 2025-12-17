@@ -1,0 +1,30 @@
+[2025-12-16 00:40:27] [CRITICAL] [IP: ::1] [User: 5] [URI: /FP_SIA_SAD_WST/php/teacher.php]
+Uncaught Exception: Unknown column 'qa.status' in 'field list' in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\teacher.php on line 115
+Stack Trace:
+#0 D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\teacher.php(115): mysqli->prepare('SELECT \r\n      ...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-16 02:32:53] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-16 02:38:01] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-16 02:40:24] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-16 02:41:30] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-16 03:09:08] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-16 17:32:03] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-16 17:36:09] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-16 22:24:54] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------

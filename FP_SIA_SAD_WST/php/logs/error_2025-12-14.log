@@ -1,0 +1,75 @@
+[2025-12-14 00:01:27] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 01:17:20] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 03:23:39] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 03:24:54] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 03:54:44] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 03:55:15] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:07:20] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:07:20] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:08:44] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:16:20] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:18:21] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:19:42] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:20:58] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:21:58] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:21:58] [ERROR] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:22:51] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:25:07] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:25:45] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:25:45] [ERROR] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:29:07] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:30:40] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 14:33:08] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 15:35:15] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 15:35:16] [ERROR] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-14 15:36:43] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------

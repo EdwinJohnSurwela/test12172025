@@ -1,0 +1,45 @@
+[2025-12-17 01:38:20] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-17 01:47:41] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-17 02:04:21] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-17 17:04:37] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-17 17:04:39] [CRITICAL] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/quiz.php]
+Uncaught Exception: Unknown column 'max_quiz_attempts' in 'field list' in C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php on line 30
+Stack Trace:
+#0 C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php(30): mysqli->prepare('SELECT max_quiz...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-17 17:06:08] [CRITICAL] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/quiz.php]
+Uncaught Exception: Unknown column 'max_quiz_attempts' in 'field list' in C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php on line 30
+Stack Trace:
+#0 C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php(30): mysqli->prepare('SELECT max_quiz...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-17 17:06:08] [CRITICAL] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/quiz.php]
+Uncaught Exception: Unknown column 'max_quiz_attempts' in 'field list' in C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php on line 30
+Stack Trace:
+#0 C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php(30): mysqli->prepare('SELECT max_quiz...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-17 17:06:09] [CRITICAL] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/quiz.php]
+Uncaught Exception: Unknown column 'max_quiz_attempts' in 'field list' in C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php on line 30
+Stack Trace:
+#0 C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php(30): mysqli->prepare('SELECT max_quiz...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-17 19:02:46] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-17 19:29:20] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------
+[2025-12-17 19:30:41] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------

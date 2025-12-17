@@ -1,0 +1,24 @@
+[2025-12-15 16:30:51] [CRITICAL] [IP: ::1] [User: 7] [URI: /FP_SIA_SAD_WST/php/admin.php]
+Uncaught Exception: Table 'library_reading_system.profile_edit_requests' doesn't exist in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\admin.php on line 337
+Stack Trace:
+#0 D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\admin.php(337): mysqli->query('SELECT per.*, u...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-15 16:31:23] [CRITICAL] [IP: ::1] [User: 7] [URI: /FP_SIA_SAD_WST/php/admin.php]
+Uncaught Exception: Table 'library_reading_system.profile_edit_requests' doesn't exist in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\admin.php on line 337
+Stack Trace:
+#0 D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\admin.php(337): mysqli->query('SELECT per.*, u...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-15 22:49:22] [ERROR] [IP: ::1] [User: 7] [URI: /FP_SIA_SAD_WST/php/generate-library-cards.php]
+[Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\generate-library-cards.php on line 537
+--------------------------------------------------------------------------------
+[2025-12-15 22:50:23] [ERROR] [IP: ::1] [User: 7] [URI: /FP_SIA_SAD_WST/php/generate-library-cards.php]
+[Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\generate-library-cards.php on line 537
+--------------------------------------------------------------------------------
+[2025-12-15 22:50:42] [ERROR] [IP: ::1] [User: 7] [URI: /FP_SIA_SAD_WST/php/generate-library-cards.php]
+[Deprecated] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\generate-library-cards.php on line 537
+--------------------------------------------------------------------------------
+[2025-12-15 23:02:40] [ERROR] [IP: ::1] [User: Guest] [URI: /FP_SIA_SAD_WST/php/student-qr-login.php?action=login]
+[Notice] session_start(): Ignoring session_start() because a session is already active in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\student-qr-login.php on line 130
+--------------------------------------------------------------------------------

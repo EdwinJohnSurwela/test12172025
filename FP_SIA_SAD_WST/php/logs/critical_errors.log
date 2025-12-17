@@ -1,0 +1,42 @@
+[2025-12-15 16:30:51] [CRITICAL] [IP: ::1] [User: 7] [URI: /FP_SIA_SAD_WST/php/admin.php]
+Uncaught Exception: Table 'library_reading_system.profile_edit_requests' doesn't exist in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\admin.php on line 337
+Stack Trace:
+#0 D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\admin.php(337): mysqli->query('SELECT per.*, u...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-15 16:31:23] [CRITICAL] [IP: ::1] [User: 7] [URI: /FP_SIA_SAD_WST/php/admin.php]
+Uncaught Exception: Table 'library_reading_system.profile_edit_requests' doesn't exist in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\admin.php on line 337
+Stack Trace:
+#0 D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\admin.php(337): mysqli->query('SELECT per.*, u...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-16 00:40:27] [CRITICAL] [IP: ::1] [User: 5] [URI: /FP_SIA_SAD_WST/php/teacher.php]
+Uncaught Exception: Unknown column 'qa.status' in 'field list' in D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\teacher.php on line 115
+Stack Trace:
+#0 D:\XAMMP\htdocs\FP_SIA_SAD_WST\php\teacher.php(115): mysqli->prepare('SELECT \r\n      ...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-17 17:04:39] [CRITICAL] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/quiz.php]
+Uncaught Exception: Unknown column 'max_quiz_attempts' in 'field list' in C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php on line 30
+Stack Trace:
+#0 C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php(30): mysqli->prepare('SELECT max_quiz...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-17 17:06:08] [CRITICAL] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/quiz.php]
+Uncaught Exception: Unknown column 'max_quiz_attempts' in 'field list' in C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php on line 30
+Stack Trace:
+#0 C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php(30): mysqli->prepare('SELECT max_quiz...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-17 17:06:08] [CRITICAL] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/quiz.php]
+Uncaught Exception: Unknown column 'max_quiz_attempts' in 'field list' in C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php on line 30
+Stack Trace:
+#0 C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php(30): mysqli->prepare('SELECT max_quiz...')
+#1 {main}
+--------------------------------------------------------------------------------
+[2025-12-17 17:06:09] [CRITICAL] [IP: ::1] [User: 2] [URI: /FP_SIA_SAD_WST/php/quiz.php]
+Uncaught Exception: Unknown column 'max_quiz_attempts' in 'field list' in C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php on line 30
+Stack Trace:
+#0 C:\xampp\htdocs\FP_SIA_SAD_WST\php\quiz.php(30): mysqli->prepare('SELECT max_quiz...')
+#1 {main}
+--------------------------------------------------------------------------------
